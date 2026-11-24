@@ -1,0 +1,26 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Java
+target/
+*.class
+*.jar
+
+# React
+node_modules/
+dist/
+.vercel/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+
+# Operating system
+.DS_Store
+Thumbs.db
